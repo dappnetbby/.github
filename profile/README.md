@@ -11,6 +11,7 @@ For a detailed overview, see [the announcement thread](https://twitter.com/liamz
 ## Repos
 
  - [Client](https://github.com/dappnetbby/dappnet) - browser, extension, etc.
+ - [Update server](https://github.com/dappnetbby/dappnet-update-server) - for distributing updates to the Dappnet client.
  - [Documentation](https://github.com/dappnetbby/dappnet-docs)
  - [DIP's - Improvement Proposals](https://github.com/dappnetbby/DIPs)
  - [R&D tracking](https://github.com/dappnetbby/dappnet-features)
